@@ -29,7 +29,7 @@ To identify key performance metrics of vendors, analyze their efficiency, and pr
 
 ## 📊 Dashboard Preview
 
-> 📌 *Insert screenshots of your Power BI dashboard or visuals here*
+> 📌 *To be Inserted screenshots of Power BI dashboard or visuals here*
 
 ---
 
