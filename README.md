@@ -35,3 +35,36 @@ To identify key performance metrics of vendors, analyze their efficiency, and pr
 
 ## 📁 Repository Structure
 
+
+---
+
+## 📌 Key Insights
+
+- Identified top-performing vendors based on delivery time, cost, and compliance.
+- Detected underperforming vendors for further review.
+- Enabled data-driven decisions via a dynamic dashboard.
+
+---
+
+## 📄 Report
+
+> 📌 *To be Added final PDF or link to report here*
+
+---
+
+## ✅ Future Enhancements
+
+- Automate data refresh in Power BI
+- Integrate anomaly detection for vendor fraud
+- Deploy dashboard to a web portal
+
+---
+
+## 📬 Contact
+
+For queries or collaborations, connect via [LinkedIn](https://www.linkedin.com/in/puskarsarkar) or raise an issue in this repository.
+
+---
+
+
+
